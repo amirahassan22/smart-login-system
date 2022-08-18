@@ -1,0 +1,48 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: #24353F;
+}
+.login-box{
+    width: 65%;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+    box-shadow: none !important;
+}
+button:hover{
+    color: #fff !important;
+}
+.login-form{
+    width: 80%;
+}
+.login-box h1{
+    color: #17a2b8;
+    font-size: 40px;
+    font-weight: 500;
+}
+.login-box p{
+    font-weight: 400;
+}
+.login-box a:hover{
+    text-decoration: underline;
+}
+.navbar{
+    background-color: #24353F !important;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+.navbar-brand{
+    color: #fff;
+}
+.text-blue{
+    color: #17a2b8 !important;
+    font-size: 40px;
+    font-weight: 500;
+}
